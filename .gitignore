@@ -9,6 +9,7 @@ __pycache__/
 # Variáveis de ambiente / credenciais
 .env
 .env.*
+!.env.example
 
 # Arquivos do VS Code
 .vscode/
@@ -23,3 +24,6 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset
+data/*.csv
