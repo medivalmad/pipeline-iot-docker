@@ -75,7 +75,7 @@ O arquivo CSV utilizado no projeto não é armazenado no repositório. Para exec
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/medivalmad/pipeline-iot-docker.git
 cd pipeline-iot-docker
 ```
 
